@@ -1,0 +1,49 @@
+E:\BlackSound\BlackSound\obj\Debug\BlackSound.csprojAssemblyReference.cache
+E:\BlackSound\BlackSound\obj\Debug\BlackSound.csproj.CoreCompileInputs.cache
+E:\BlackSound\BlackSound\bin\Debug\BlackSound.exe.config
+E:\BlackSound\BlackSound\bin\Debug\BlackSound.exe
+E:\BlackSound\BlackSound\bin\Debug\BlackSound.pdb
+E:\BlackSound\BlackSound\obj\Debug\BlackSound.exe
+E:\BlackSound\BlackSound\obj\Debug\BlackSound.pdb
+F:\BlackSound\BlackSound\obj\Debug\BlackSound.csprojResolveAssemblyReference.cache
+F:\BlackSound\BlackSound\obj\Debug\BlackSound.csproj.CoreCompileInputs.cache
+F:\BlackSound\BlackSound\obj\Debug\BlackSound.exe
+F:\BlackSound\BlackSound\obj\Debug\BlackSound.pdb
+F:\BlackSound\BlackSound\bin\Debug\BlackSound.exe.config
+F:\BlackSound\BlackSound\bin\Debug\BlackSound.exe
+F:\BlackSound\BlackSound\bin\Debug\BlackSound.pdb
+D:\BlackSound\BlackSound\bin\Debug\BlackSound.exe.config
+D:\BlackSound\BlackSound\bin\Debug\BlackSound.exe
+D:\BlackSound\BlackSound\bin\Debug\BlackSound.pdb
+D:\BlackSound\BlackSound\obj\Debug\BlackSound.csprojAssemblyReference.cache
+D:\BlackSound\BlackSound\obj\Debug\BlackSound.csproj.CoreCompileInputs.cache
+D:\BlackSound\BlackSound\obj\Debug\BlackSound.exe
+D:\BlackSound\BlackSound\obj\Debug\BlackSound.pdb
+C:\Users\nikol\Desktop\BlackSound\BlackSound\bin\Debug\BlackSound.exe.config
+C:\Users\nikol\Desktop\BlackSound\BlackSound\bin\Debug\BlackSound.exe
+C:\Users\nikol\Desktop\BlackSound\BlackSound\bin\Debug\BlackSound.pdb
+C:\Users\nikol\Desktop\BlackSound\BlackSound\obj\Debug\BlackSound.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\BlackSound\BlackSound\obj\Debug\BlackSound.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\BlackSound\BlackSound\obj\Debug\BlackSound.exe
+C:\Users\nikol\Desktop\BlackSound\BlackSound\obj\Debug\BlackSound.pdb
+C:\Users\pc123\AppData\Roaming\Skype\My Skype Received Files\BlackSound(1)\BlackSound\BlackSound\bin\Debug\BlackSound.exe.config
+C:\Users\pc123\AppData\Roaming\Skype\My Skype Received Files\BlackSound(1)\BlackSound\BlackSound\bin\Debug\BlackSound.exe
+C:\Users\pc123\AppData\Roaming\Skype\My Skype Received Files\BlackSound(1)\BlackSound\BlackSound\bin\Debug\BlackSound.pdb
+C:\Users\pc123\AppData\Roaming\Skype\My Skype Received Files\BlackSound(1)\BlackSound\BlackSound\obj\Debug\BlackSound.csprojResolveAssemblyReference.cache
+C:\Users\pc123\AppData\Roaming\Skype\My Skype Received Files\BlackSound(1)\BlackSound\BlackSound\obj\Debug\BlackSound.csproj.CoreCompileInputs.cache
+C:\Users\pc123\AppData\Roaming\Skype\My Skype Received Files\BlackSound(1)\BlackSound\BlackSound\obj\Debug\BlackSound.exe
+C:\Users\pc123\AppData\Roaming\Skype\My Skype Received Files\BlackSound(1)\BlackSound\BlackSound\obj\Debug\BlackSound.pdb
+C:\Users\pc123\Desktop\BlackSound(1)\BlackSound\BlackSound\bin\Debug\BlackSound.exe.config
+C:\Users\pc123\Desktop\BlackSound(1)\BlackSound\BlackSound\bin\Debug\BlackSound.exe
+C:\Users\pc123\Desktop\BlackSound(1)\BlackSound\BlackSound\bin\Debug\BlackSound.pdb
+C:\Users\pc123\Desktop\BlackSound(1)\BlackSound\BlackSound\obj\Debug\BlackSound.csprojResolveAssemblyReference.cache
+C:\Users\pc123\Desktop\BlackSound(1)\BlackSound\BlackSound\obj\Debug\BlackSound.csproj.CoreCompileInputs.cache
+C:\Users\pc123\Desktop\BlackSound(1)\BlackSound\BlackSound\obj\Debug\BlackSound.exe
+C:\Users\pc123\Desktop\BlackSound(1)\BlackSound\BlackSound\obj\Debug\BlackSound.pdb
+E:\BlackSound3\BlackSound(1)\BlackSound\BlackSound\obj\Debug\BlackSound.exe
+E:\BlackSound3\BlackSound(1)\BlackSound\BlackSound\obj\Debug\BlackSound.pdb
+E:\BlackSound3\BlackSound(1)\BlackSound\BlackSound\bin\Debug\BlackSound.exe.config
+E:\BlackSound3\BlackSound(1)\BlackSound\BlackSound\bin\Debug\BlackSound.exe
+E:\BlackSound3\BlackSound(1)\BlackSound\BlackSound\bin\Debug\BlackSound.pdb
+E:\BlackSound3\BlackSound(1)\BlackSound\BlackSound\obj\Debug\BlackSound.csprojAssemblyReference.cache
+E:\BlackSound3\BlackSound(1)\BlackSound\BlackSound\obj\Debug\BlackSound.csproj.CoreCompileInputs.cache
